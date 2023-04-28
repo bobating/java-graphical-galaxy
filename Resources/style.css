@@ -1,0 +1,20 @@
+.button-box {
+  -fx-alignment: center;
+  -fx-padding: 10px;
+  -fx-bottom: 10;
+}
+label {
+    -fx-text-fill: white;
+    -fx-effect: dropshadow( one-pass-box , black , 1.0 , 0.0 , 0.0 , 1.0 );
+}
+
+.label {
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-background-color: black;
+    -fx-padding: 10px;
+    -fx-background-radius: 10px;
+    -fx-border-color: white;
+    -fx-border-width: 2px;
+}
