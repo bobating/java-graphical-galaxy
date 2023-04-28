@@ -12,4 +12,4 @@ The program generates a canvas and draws a number of stars on it, with the optio
 To get started with this app, simply clone the repository and run it IntelliJ IDEA ( For this project i used the Community Edition )
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/bobating/java-graphicalApp-galaxy/blob/ea9b834f976efeebc19f1709bfa32e0b4f11ddef/LICENSE) file for details.
